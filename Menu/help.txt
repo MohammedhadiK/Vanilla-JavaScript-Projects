@@ -1,0 +1,32 @@
+HELP 1
+
+// What happen Here in displayMenuItems?
+// We have defined an article named menu item.
+// we just need to put the 9 Menu items in the menu list to it.
+// Once document is loaded, we use map to make a variable named
+// display menu and populate it with items
+// we then replace sectionCenter with displayMenu.
+// we then refactored the code to a function called displyMenuItems.
+
+
+HELP 2
+
+
+// to filter some items...
+// you need to set the buttons.
+// set specific ids (data-id) for them and make them equal to category name
+// we can get this dataid back once we press button,
+// we need to equate this dataid to category we have and then display what we have.
+
+// HELP 3
+
+// we added filter buttons
+// after we dynamically edited the HTML contents.
+
+//HELP 4
+
+using map function, join and then innerHTML we can edit HTML content.
+
+// HELP 5
+ we use forEach method to make use of filters.
+ we use forEach to access each, and listen to them constantly.
